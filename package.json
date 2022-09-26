@@ -1,0 +1,16 @@
+{
+  "name": "blue-trust-loans",
+  "theme": "syntax",
+  "version": "0.2.0",
+  "description": "Blue Trust Loans Online Payday Loans Online No Credit Check Instant Approval",
+  "keywords": [
+    "bluetrustloans",
+    "blue trust loans",
+    "bluetrustloans.com"
+  ],
+  "repository": "https://github.com/pdlonline/blue-trust-loans",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
